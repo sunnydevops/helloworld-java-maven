@@ -35,13 +35,13 @@
   
  <distributionManagement>
 	<repository>
-		<id>tata</id>
+		<id>development</id>
 		<name>Internal Releases</name>
 		<url>http://13.59.184.138:8081/nexus/content/repositories/host//</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>tata</id>
+		<id>development</id>
 		<name>Internal Releases</name>
 		<url>http://13.59.184.138:8081/nexus/content/repositories/snap//</url>
 	</snapshotRepository>
