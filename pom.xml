@@ -37,13 +37,13 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://18.218.89.119:8081/repository/maven-releases/</url>
+		<url>http://13.59.184.138:8081/nexus/content/repositories/host//</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://18.218.89.119:8081/repository/maven-snapshots/</url>
+		<url>http://13.59.184.138:8081/nexus/content/repositories/snap//</url>
 	</snapshotRepository>
 
 </distributionManagement>
